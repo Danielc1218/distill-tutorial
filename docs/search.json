@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-22T12:42:15-05:00"
+      "contents": "\r\nAbout me\r\nMy Name is Daniel Chen, I attend Naperville North High School, and I am interested in Computer Science, Piano, Chess, and most importantly - gaming!\r\nAbout the Project\r\nComparison of Population and Crime rate in 2010 and 2019 in the US. My Project compares two years, 2010 and 2019, and each US state including the District of Columbia and Puerto Rico. It compares the population and crime rate of each state in both years.\r\n###Goals * Accurately display a correlation or no correlation between crime rate and population\r\n+Displaying the correlation on the same graph with correct x-axis labels for the states * Compare two separate years “This is data science”\r\n~preceptor [“Kane’s Free High School Data Science Bootcamp”(https://bootcamp.davidkane.info)]\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-22T13:16:31-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-22T12:42:19-05:00"
+      "last_modified": "2021-06-22T13:16:34-05:00"
     }
   ],
   "collections": []

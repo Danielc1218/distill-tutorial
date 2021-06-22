@@ -7,4 +7,16 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## About me
+My Name is **Daniel Chen**, I attend Naperville North High School, and I am interested in Computer Science, Piano, Chess, and most importantly - gaming!
 
+## About the Project
+*Comparison of Population and Crime rate in 2010 and 2019 in the US.* My Project compares two years, 2010 and 2019, and each US state including the District of Columbia and Puerto Rico. It compares the population and crime rate of each state in both years.
+
+###Goals
+* Accurately display a correlation or no correlation between crime rate and population  
+  +Displaying the correlation on the same graph with correct x-axis labels for the states
+* Compare two separate years 
+"This is data science"  
+~preceptor
+[“Kane’s Free High School Data Science Bootcamp”(https://bootcamp.davidkane.info)]
